@@ -1,5 +1,16 @@
 # Model View Controller (MVC) Architecture
 
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+ </p>
+
 ## What is MVC?
 
 MVC is a software architecture pattern for developing web applications. It is a way of structuring the codebase of an application into three distinct logical components: the Model, the View and the Controller. The MVC pattern is a way of separating the concerns of an application into three distinct parts, each with separate responsibilities.
@@ -24,6 +35,17 @@ The text input box currently console logs the text entered into it when the subm
 ## Testing
 
 This project uses Jest for testing. To run the tests, run `jest` in the terminal.
+
+## Technologies
+
+* JavaScript
+* Node.js
+* npm
+* Jest
+* HTML
+* CSS
+* git
+* GitHub
 
 ## Screenshot
 
