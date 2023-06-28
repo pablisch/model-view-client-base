@@ -19,9 +19,13 @@ This repository contains a simple example of a web application built using the M
 3. Build the project with `npm run build`
 4. Run `open index.html` to open the application in your browser
 
-The text input box currently console logs the text entered into it when the submit button is clicked.
+The text input box currently console logs the text entered into it when the submit button is clicked. It would be simple enough to add functionality to add new posts, or to display it on the page, but that was not the purpose of this project.
 
 ## Testing
 
 This project uses Jest for testing. To run the tests, run `jest` in the terminal.
+
+## Screenshot
+
+![Screenshot of the application](./images/main.png)
 
